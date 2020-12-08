@@ -332,32 +332,6 @@
             "settings": {},
             "inode": "18720297",
             "_v": 1607392958386
-        },
-        {
-            "id": "0c979d23-1568-4b4b-8dfb-ccdab0fadb88",
-            "name": "template_",
-            "filename": "template_.mod",
-            "settings": {
-                "disableSpeedConversion": true
-            },
-            "inode": "18763151",
-            "_v": 1607394921409
-        },
-        {
-            "id": "43747305-fb52-4635-8318-fecf3626bc18",
-            "name": "test1",
-            "filename": "test1.mod",
-            "settings": {},
-            "inode": "18762478",
-            "_v": 1607394381402
-        },
-        {
-            "id": "45625ebd-b5c9-43c9-98f5-7f733122a97b",
-            "name": "test3",
-            "filename": "test3.mod",
-            "settings": {},
-            "inode": "18762486",
-            "_v": 1607393952706
         }
     ],
     "variables": [],
@@ -384,6 +358,7 @@
         "defaultFadeStyle": "black",
         "startDirection": "down",
         "playerSpriteSheetId": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
-        "playerPaletteId": "default-bg-1"
+        "playerPaletteId": "default-bg-1",
+        "startMoveSpeed": "2"
     }
 }
